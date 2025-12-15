@@ -7,3 +7,4 @@ b = 5
 print(plus(a,b))
 print(mult(a,b))
 print(plusx(a,b,2))
+print(multx(a,b,2))
